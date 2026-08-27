@@ -1,3 +1,4 @@
+i just lost my original code yesterday, i made this with the help of ai so hope you consider my problem
 # 🛡️ FakeShield
 
 ### Fake News Detection System using Python + Flask
